@@ -27,5 +27,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Custom variables
-year : "2020"
